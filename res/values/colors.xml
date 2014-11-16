@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+<color name="grislight">#cccccc</color>
+<color name="greenlight">#90f030</color>
+<color name="green">#01a05f</color>
+<color name="grislight2">#e6e6e6</color>
+<color name="bluelight">#2cabe2</color>
+<color name="bluelight2">#2388b4</color>
+<color name="bluefonce">#1a6687</color>
+<color name="bluefonce1">#11445a</color>
+<color name="bluefonce2">#08222d</color>
+
+
+</resources>
